@@ -2,17 +2,17 @@
 title: POI Filtering Design
 description: Point of Interest 객체의 필터링을 어떻게 수행할 지에 대한 설계 문서 
 published: true
-date: 2024-03-28T03:53:26.139Z
+date: 2024-04-12T08:27:20.810Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-28T03:53:26.139Z
 ---
 
-개요
+# 개요
 
 이 문서는 POI 필터링 기능에서 사용하는 구조체와 구현 방식을 설명한다. 
 
-상세
+## 상세
 
 -   간단히 요약하자면 다음과 같은 위계 구조를 지닌다.
 
